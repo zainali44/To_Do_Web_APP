@@ -1,0 +1,19 @@
+.flex-container {
+    display: flex;
+  }
+  
+  .flex-item {
+    flex: 1;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    margin: 10px;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    padding: 50px;
+    margin: 10px;
+  }
+
+    .flex-item:hover {
+        background-color: #e6e6e6;
+    }
+  
